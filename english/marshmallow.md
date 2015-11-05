@@ -75,6 +75,8 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+[So much leather](./sanfran/sanfran.md)
+
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
 
 An umbrella (closed) automagically appears in your left hand. You tentatively
@@ -595,5 +597,5 @@ Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube
 
 But the call of of nature wasn't going away so you push open the toilet door and go in..
 
-Just then you recall the news story of what is causing the 
+Just then you recall the news story of what is causing the
 [strange noise] in toilet (http://nydn.us/1iLJF83) you look around..
